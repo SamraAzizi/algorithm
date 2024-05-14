@@ -37,10 +37,4 @@ To compile and run the program, follow these steps:
 5. Follow the prompts to input 5 integers.
 6. The program will output the original array, followed by the sorted array using the Bubble Sort algorithm.
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
