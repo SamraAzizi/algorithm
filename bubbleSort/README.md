@@ -33,4 +33,14 @@ To compile and run the program, follow these steps:
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the `main.cpp` file.
 3. Use a C++ compiler to compile the program. For example, with GCC:
+4. Run the compiled executable:
+5. Follow the prompts to input 5 integers.
+6. The program will output the original array, followed by the sorted array using the Bubble Sort algorithm.
 
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
