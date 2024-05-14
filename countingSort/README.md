@@ -28,7 +28,3 @@ To compile and run the program, follow these steps:
 5. Follow the prompts to input the size of the array and the integers within the specified range.
 6. The program will output the original array, followed by the sorted array using the Counting Sort algorithm.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or create a pull request.
-
