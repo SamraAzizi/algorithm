@@ -4,18 +4,6 @@ This C++ program demonstrates the implementation of the Counting Sort algorithm 
 
 ## Getting Started
 
-### Prerequisites
-
-To run this program, you need:
-
-- A C++ compiler such as GCC or Clang.
-- Visual Studio Code (VSCode) or any other code editor of your choice with C++ support.
-
-### Installation
-
-1. Clone or download this repository to your local machine.
-2. Open the project folder in your preferred code editor (e.g., Visual Studio Code).
-
 ## Usage
 
 1. Open the `main.cpp` file.
@@ -44,6 +32,3 @@ To compile and run the program, follow these steps:
 
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
