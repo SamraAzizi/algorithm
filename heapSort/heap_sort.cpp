@@ -18,36 +18,3 @@ void heapify(int arr[], int n, int i) {
     }
 }
 
-void heapSort(int arr[], int n) {
-    for (int i = n / 2 - 1; i >= 0; i--)
-        heapify(arr, n, i);
-
-    for (int i = n - 1; i > 0; i--) {
-        swap(arr[0], arr[i]);
-        heapify(arr, i, 0);
-    }
-}
-
-int main() {
-    int n;
-    
-    cout << "Enter the size of the array: " << endl;
-    cin >> n;
-    int arr[n];
-
-    cout << "Enter " << n << " integers in any order: " << endl;
-    for (int i = 0; i < n; i++)
-        cin >> arr[i];
-
-    cout << endl << "Before Sorting" << endl;
-    for (int i = 0; i < n; i++)
-        cout << arr[i] << " ";
-    cout << endl;
-
-    heapSort(arr, n);
-
-    cout << endl << "After Sorting" << endl;
-    for (int i = 0; i < n; i++)
-        cout << arr[i] << " ";
-    return 0;
-}
